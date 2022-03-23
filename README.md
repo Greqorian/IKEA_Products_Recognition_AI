@@ -2,7 +2,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-<img src="project_parts.png" width="500"> 
+<img src="project_parts2.png" width="500"> 
   <h3 align="center">IKEA_Products_Recognition_AI</h3>
 
   <p align="center">
