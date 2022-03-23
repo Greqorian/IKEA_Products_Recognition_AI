@@ -2,7 +2,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-<img src="project_parts2.png" width="500"> 
+<img src="project_parts3.png" width="600"> 
   <h3 align="center">IKEA_Products_Recognition_AI</h3>
 
   <p align="center">
@@ -52,18 +52,33 @@ The results of all tests summarized in the table:
 
 ### How to use
 
-To start collecting images from the ikea website, please open the jupiter notebook in [Google Colab](https://colab.research.google.com/drive/1hOcuZJ_1B5fV5EHMvxtlfyTGhy_meC1z?usp=sharing) and follow the instructions
-
-### Table of contents
-
-
+To start training the model go to the Jupyter notebook in [Google Colab](https://colab.research.google.com/drive/1jhhUAAyvhcrYKz5Nrt9Mt_iQ_qY-LK1s?usp=sharing) and follow the instructions.
 
 
 ### Built With
 
+1. Web Scraping
 * [Google Colab](https://colab.research.google.com/)
 * [Python](https://www.python.org/)
 * [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/#)
+
+2. Neural Network Model Training
+* [Google Colab](https://colab.research.google.com/)
+* [Python](https://www.python.org/)
+* [FastAI](https://www.fast.ai/)
+* [PyTorch](https://pytorch.org/)
+
+3. API service
+* [Google Colab](https://colab.research.google.com/)
+* [Python](https://www.python.org/)
+* [Flask](https://flask.palletsprojects.com/en/2.0.x/)
+* [onRender](https://render.com/)
+
+3. Frontend
+* [React](https://reactjs.org/)
+* [JavaScript](https://www.javascript.com/)
+* [Sass](https://sass-lang.com/)
+* [Heroku](https://www.heroku.com)
 
 <!-- CONTACT -->
 ### Contact
