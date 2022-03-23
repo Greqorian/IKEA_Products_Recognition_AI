@@ -57,28 +57,19 @@ To start training the model go to the Jupyter notebook in [Google Colab](https:/
 
 ### Built With
 
-1. Web Scraping
-* [Google Colab](https://colab.research.google.com/)
-* [Python](https://www.python.org/)
-* [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/#)
-
-2. Neural Network Model Training
-* [Google Colab](https://colab.research.google.com/)
-* [Python](https://www.python.org/)
-* [FastAI](https://www.fast.ai/)
-* [PyTorch](https://pytorch.org/)
-
-3. API service
-* [Google Colab](https://colab.research.google.com/)
-* [Python](https://www.python.org/)
-* [Flask](https://flask.palletsprojects.com/en/2.0.x/)
-* [onRender](https://render.com/)
-
-3. Frontend
-* [React](https://reactjs.org/)
-* [JavaScript](https://www.javascript.com/)
-* [Sass](https://sass-lang.com/)
-* [Heroku](https://www.heroku.com)
+| Technology                                                               | Web Scraping | Neural Network Training | API Service | Frontend App |
+|--------------------------------------------------------------------------|--------------|-------------------------|-------------|--------------|
+| [Google Colab](https://colab.research.google.com/)                       | x            | x                       |             |              |
+| [Python](https://www.python.org/)                                        | x            | x                       | x           |              |
+| [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/#) | x            |                         |             |              |
+| [FastAI](https://www.fast.ai/)                                           |              | x                       | x           |              |
+| [PyTorch](https://pytorch.org/)                                          |              | x                       |             |              |
+| [Flask](https://flask.palletsprojects.com/en/2.0.x/)                     |              |                         | x           |              |
+| [onRender](https://render.com/)                                          |              |                         | x           |              |
+| [React](https://reactjs.org/)                                            |              |                         |             | x            |
+| [JavaScript](https://www.javascript.com/)                                |              |                         |             | x            |
+| [Sass](https://sass-lang.com/)                                           |              |                         |             | x            |
+| [Heroku](https://www.heroku.com)                                         |              |                         |             | x            |
 
 <!-- CONTACT -->
 ### Contact
