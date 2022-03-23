@@ -2,8 +2,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-<img src="batch_ebay_images.png" width="350"> 
-<img src="batch_ikea_images.png" width="350">
+<img src="project_parts.png" width="500"> 
   <h3 align="center">IKEA_Products_Recognition_AI</h3>
 
   <p align="center">
@@ -32,6 +31,10 @@ The content of the entire work is divided into separate repositories:
 7. Application front-end 
     - [frontend application in React](https://github.com/Greqorian/IKEA_classifier_frontend) 
 
+
+### Neural Network Model
+
+In the first stage, the web scraping technique was used to acquire image data from two sources, which opened the possibility of achieving higher accuracy of the trained model. Seven trainings of the neural network model were performed, gradually increasing its ability to recognize different products from the IKEA store. By the seventh stage, it was possible to train the network model to recognize 100 product classes with an accuracy of 94%. This model was implemented in an application structured with an API service and frontend implemented on cloud services. 
 
 The results of all tests summarized in the table:
 
