@@ -56,7 +56,7 @@ To start training the model go to the Jupyter notebook in [Google Colab](https:/
 
 If you want to go directly to the app go to the project: [IKEA_classifier_frontend](https://github.com/Greqorian/IKEA_classifier_frontend)
 
-### Workflowe architecture
+### Workflow architecture
 
 <img src="workflow_architecture.png" width="400"> 
 
