@@ -58,7 +58,7 @@ If you want to go directly to the app go to the project: [IKEA_classifier_fronte
 
 ### Workflowe architecture
 
-<img src="project_parts3.png" width="600"> 
+<img src="workflow_architecture.png" width="600"> 
 
 ### Built With
 
