@@ -15,7 +15,7 @@
 ### About The Project
 
 Research on the training capabilities of a neural network model is an indigenous part of the final thesis at HTW Berlin. As a result of this research we were able to create a model that recognizes IKEA store furniture with an accuracy of over 90%. 
-The model used in the [IKEA_classifier](https://ikea-classifier.herokuapp.com/) application is part of the final project.
+The model used in the [IKEA_classifier](https://github.com/Greqorian/IKEA_classifier_frontend) application is part of the final project.
 
 This work can be seen here: [Development of a web application for the recognition 
 of IKEA products based on neural networks](https://docs.google.com/document/d/1APf5llBDAKWvc0GtJMNoXp0jBHCsVX-7/edit?usp=sharing&ouid=111051527142046808483&rtpof=true&sd=true)
